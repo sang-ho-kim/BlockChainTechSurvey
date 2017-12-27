@@ -36,20 +36,24 @@ Overview
           아직 아무 것도 없음. 말 뿐임.
 * Publica(PBL)
   * 특징 : 전자 출판을 위한 블록체인 네트워크. 17.12.19 에 PoC 영상 내놓음.
-* Metaverse(ETP)
-  * 특징 : 정보 없음
-* Waves(WAVES)
+* Waves(WAVES)(https://wavesplatform.com/)
   * 특징 : 가상화폐 거래 플랫폼. 크라우드 펀딩에 중점. 코인 대출 가능
-* Asch(XAS)
-  * 특징 : 중국 이더리움
-* Vechain(VEN)
-* district0x(DNT)
-* Request Network(REQ)
-* Ethos(ETHOS)
-* DECENT(DCT)
+* district0x(DNT)(https://district0x.io/)
+  * 특징 : 이더리움과 아라곤, IPFS 에 의해 동작하는 탈 중앙화된 커뮤니티, 마켓플레이스.
+          ETHLANCE : Job market ( 구인구직 플랫폼 )
+          MEME FACTORY : 인터넷 상의 짤(meme) 들을 공유하는 플랫폼
+          NAME BAZAAR : Domain P2P 거래 플랫폼
+          이런 응용들이 있음.(EOS 도 이거랑 비슷하다는거 같음)
+* Request Network(REQ)(https://request.network/)
+  * 특징 : 결제 중계 플랫폼. 이 외의 다른 점은?
+* DECENT(DCT)(https://decent.ch/)
+  * 특징 : 컨텐츠 분산 플랫폼.
 * Agrello(DLT)
+  * 특징 : 이더리움이나 큐텀을 이용한 스마트 컨트랙트 플랫폼
 * Civic(CVC)
+  * 특징 : 신원 확인 플랫폼
 * Raiden Network Token(RDN)
+  * 특징 : 이더리움 속도 빠르게 해주는거
 * Quantstamp(QSP)
 * Binance(BNB)
 * Komodo(KMD)
